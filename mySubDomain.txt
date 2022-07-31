@@ -1,0 +1,7 @@
+administrator
+admin
+cpanel
+wp-admin
+wp-login
+install
+setup
